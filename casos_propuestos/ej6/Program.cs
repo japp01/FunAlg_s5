@@ -19,5 +19,5 @@ for (int i = 2; i <= n; i++)
     {
         Console.WriteLine(i);
     }
-    acumulador = 0;
+    acumulador = 0; 
 }
